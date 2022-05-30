@@ -12,7 +12,7 @@ In this notebook uploaded, I developed a **Sentiment Analysis model** to categor
 1. **Lower Casing:** Each text is converted to lowercase. #Helps to keep things normalized
 2. **Replacing URLs:** Links starting with **"http" or "https" or "www"** are replaced by **"URL"**.
 3. **Replacing Emojis:** Replace emojis by using a pre-defined dictionary containing emojis along with their meaning. *(eg: ":)" to "EMOJIsmile")*
-4. **Replacing Usernames:** Replace @Usernames with word **"USER"**. *(eg: "@Kaggle" to "USER")*
+4. **Replacing Usernames:** Replace @Usernames with word **"USER"**. *(eg: "@FagbamigbeK" to "USER")*
 5. **Removing Non-Alphabets:** Replacing characters except Digits and Alphabets with a space.
 6. **Removing Consecutive letters:** 3 or more consecutive letters are replaced by 2 letters. *(eg: "Heyyyy" to "Heyy")*
 7. **Removing Short Words:** Words with length less than 2 are removed.
