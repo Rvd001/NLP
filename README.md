@@ -30,6 +30,6 @@ In this notebook uploaded, I developed a **Sentiment Analysis model** to categor
 
 - To predict the winner of the upcoming general elections in Nigeria in 2023 based on tweets
 
-- Link to my Kaggle Notebook
-!https://www.kaggle.com/fagbamigbekehinde/twitter-sentiment-analysis
+## <a name="p9">Link to my Kaggle Notebook</a>
+https://www.kaggle.com/fagbamigbekehinde/twitter-sentiment-analysis
 
