@@ -19,10 +19,14 @@ In this notebook, we'll develop a **Sentiment Analysis model** to categorize a t
 8. **Removing Stopwords:** Stopwords are the English words which does not add much meaning to a sentence. They can safely be ignored without sacrificing the meaning of the sentence. *(eg: "the", "he", "have")*
 9. **Lemmatizing:** Lemmatization is the process of converting a word to its base form. *(e.g: “Great” to “Good”)*
 
-**Reference**
+
+## <a name="p4">Reference</a>
+
 - Kaggle
 - Coursera
 
-**Future Project**
+
+## <a name="p4">Future Project</a>
+
 - To predict the winner of the upcoming general elections in Nigeria in 2023 based on tweets
 
